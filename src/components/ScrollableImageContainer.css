@@ -1,0 +1,92 @@
+/* .container {
+    width: 100%;
+    height: 600px;
+    position: relative;
+    display:flexbox
+  }
+  
+  .scroll-bar {
+    width: 100%;
+    height: 20px;
+    background: #ddd;
+    cursor: pointer;
+    position: relative;
+    margin-top: 10px; /* Adjust as needed */
+  /* }
+  
+  .scroll-thumb {
+    height: 100%;
+    background: #888;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border-radius: 4px; 
+  }
+
+  .scroll-thumb{
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  .scroll-thumb1{
+    font-size: 50px;
+
+    padding-top: 1px;
+    width: 100%;
+    background-color: rgba(92, 63, 73, 0.5);
+  }
+
+  .image-container{
+    display: flexblox;
+  } */ 
+
+
+ /* .scrollable-image{
+    height: 110%;
+    width: 10%;
+ } */
+
+  /* .arrow-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 10%;
+    border-radius: 10%;
+    background-color: rgba(255, 255, 255, 0.5);
+    cursor: pointer;
+    margin: 50px;
+  } */
+  
+  /* .arrow-button {
+
+    font-size: 48px;
+    font-weight: bold;
+    color: #808080;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  } */
+
+  .container {
+    width: 100%;
+    padding-top: 1rem;
+    height: 500px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-navigation {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Adjust spacing as needed */
+    width: 45rem;
+  }
+  
+  
