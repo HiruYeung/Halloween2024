@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/cgweb/static/css/main.c5e6f582.css",
+    "main.js": "/cgweb/static/js/main.17290a4c.js",
+    "static/js/317.285ce64c.chunk.js": "/cgweb/static/js/317.285ce64c.chunk.js",
+    "static/media/giphy-6.gif": "/cgweb/static/media/giphy-6.c3165734ccab265f67aa.gif",
+    "static/media/giphy-5.gif": "/cgweb/static/media/giphy-5.5bbaa9c2a20d11c94be8.gif",
+    "static/media/Ultimate_Design.mp3": "/cgweb/static/media/Ultimate_Design.83188d98b708f0acb0ea.mp3",
+    "static/media/Lighth00.png": "/cgweb/static/media/Lighth00.b02d1fc1f877e8500694.png",
+    "static/media/giphy4.gif": "/cgweb/static/media/giphy4.7d269eaf624d96ca6279.gif",
+    "static/media/52kkk.png": "/cgweb/static/media/52kkk.a3023e8a5789d8919934.png",
+    "static/media/IMG_5628.PNG": "/cgweb/static/media/IMG_5628.d9db7e7c0ce0a19c2dfc.PNG",
+    "static/media/080222.png": "/cgweb/static/media/080222.d0159c2d5125de02182c.png",
+    "static/media/home1.jpg": "/cgweb/static/media/home1.abfcb74cc05e458ff336.jpg",
+    "static/media/giphy2.gif": "/cgweb/static/media/giphy2.67999771ee399b279f07.gif",
+    "static/media/giphy1.gif": "/cgweb/static/media/giphy1.babd1eaa2fec16181b65.gif",
+    "static/media/giphy.gif": "/cgweb/static/media/giphy.ad71dfcbef655dec20ca.gif",
+    "static/media/Logoimg.jpg": "/cgweb/static/media/Logoimg.2f138d41f7bd17f8665e.jpg",
+    "static/media/home2.jpg": "/cgweb/static/media/home2.07358f11513399218dfb.jpg",
+    "static/media/home3.jpg": "/cgweb/static/media/home3.5423daa84131541dfb8b.jpg",
+    "static/media/Head3.jpeg": "/cgweb/static/media/Head3.5107c388c0692ef15685.jpeg",
+    "static/media/giphy-11.gif": "/cgweb/static/media/giphy-11.2f44033e2c94d3840fa5.gif",
+    "static/media/Head1.jpeg": "/cgweb/static/media/Head1.83a9a86587c57d6851c1.jpeg",
+    "static/media/Head2.jpeg": "/cgweb/static/media/Head2.0707d78f42e8cb386d3f.jpeg",
+    "static/media/giphy0.png": "/cgweb/static/media/giphy0.fe6493f8d2816438c883.png",
+    "static/media/arrow.png": "/cgweb/static/media/arrow.86663ae87a3b8ccb36f7.png",
+    "static/media/arrow0.png": "/cgweb/static/media/arrow0.174754606719b67598ba.png",
+    "index.html": "/cgweb/index.html",
+    "main.c5e6f582.css.map": "/cgweb/static/css/main.c5e6f582.css.map",
+    "main.17290a4c.js.map": "/cgweb/static/js/main.17290a4c.js.map",
+    "317.285ce64c.chunk.js.map": "/cgweb/static/js/317.285ce64c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5e6f582.css",
+    "static/js/main.17290a4c.js"
+  ]
+}
