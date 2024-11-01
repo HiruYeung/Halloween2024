@@ -19,7 +19,7 @@ const Page = () => {
   return (
     <>
       <div style={{ position: 'relative' }}>
-        <div className='scroll-thumb2' style={{ display: 'flex', gap: '0', position: 'absolute',}}>Ehiru's Mini Web Game</div>
+        <div className='scroll-thumb2' style={{ display: 'flex', gap: '0', position: 'absolute',}}>Ehiru's Mini Web Game<br/>Instagram:art.ehiru/Email:ehiruac@gmail.com</div>
         <img src={Logoimg} className="logo" alt="Logo" style={{ display: 'flex', gap: '0', width: '100%'}}/>
         <div className='Plays' style={{ display: 'flex', gap: '0',}}>
           <img src={Blue1} className="Blue1" style={{ display: 'flex', gap: '0', width:'27%'}}/>
